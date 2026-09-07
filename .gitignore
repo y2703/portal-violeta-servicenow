@@ -1,0 +1,17 @@
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos temporarios
+*.tmp
+*.bak
+~$*
+
+# Exports brutos da instancia (renomeie e mova para update-sets/)
+sys_remote_update_set_*.xml
